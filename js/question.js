@@ -50,5 +50,11 @@ const quiz = [
         q:'Mark Zuckerberg is the owner of  ?',
         options: ['Facebook','Twitter', 'LinkedIn', 'Github'],
         answer: 0,
-    }
+    },
+    {
+        q:'Who were the 3 founders of Apple? Steve Jobs, Steve Wozniak, and ________.?',
+        options: ['Tim Cook','Ronald Wayne', 'Sundar Pichai', 'Linus Torvalds'],
+        answer: 1,
+        topic: computer
+    },
 ]
