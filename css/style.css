@@ -79,6 +79,11 @@ body {
     display: inline-block;
 }
 
+.btn:hover{
+    background-color: #117c99;
+    cursor: pointer;
+}
+
 .quiz-box .question-number, .quiz-box .question-text, .quiz-box .option-container, .quiz-box .answers-indicator {
     width: 100%;
     float: left;
