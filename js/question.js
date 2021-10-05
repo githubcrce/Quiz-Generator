@@ -39,16 +39,34 @@ const quiz = [
     {
         q:'Windows, macOS, and Linux are examples of ________.?',
         options: ['Web browsers','Mobile devices', 'Filmy heroines', 'Operating systems'],
-        answer: 3,
+        answer: 3
     },
     {
         q:'What does "GUI" stand for?',
         options: ['Global user index','Graphical user interface', 'Golu use iphone'],
-        answer: 1,
+        answer: 1
     },
     {
         q:'Mark Zuckerberg is the owner of  ?',
         options: ['Facebook','Twitter', 'LinkedIn', 'Github'],
-        answer: 0,
+        answer: 0
+    },
+    {
+        q:'What is the largest planet of our solar system?',
+        options: ['Saturn','Mars','Venus','Jupiter'],
+        answer: 3,
+        topic: space
+    },
+    {
+        q:'Who was the first man to enter space?',
+        options: ['Alan B. Shephard','Major Yuri Gagarin','Edward White'],
+        answer: 1,
+        topic: space
+    },
+    {
+        q:'Which was first scientific satellite by India?',
+        options: ['Chandrayaan','Rohini RS-1','Aryabhatta','Kalpana-1'],
+        answer: 2,
+        topic: space
     }
 ]
