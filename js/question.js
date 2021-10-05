@@ -51,4 +51,15 @@ const quiz = [
         options: ['Facebook','Twitter', 'LinkedIn', 'Github'],
         answer: 0,
     }
+    ,
+    {
+         q:'How mmany time zones are there in Russia?',
+         options: ['11','23', '15', '17'],
+         answer:0
+    }
+    ,
+    {
+        q:"What type of computers are client computers (most of the time) in a client-server system?",
+        options:["MicroComputer","SuperComputer","MainFrame", "MongoDB"]
+    }
 ]
