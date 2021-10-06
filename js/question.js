@@ -55,67 +55,67 @@ const quiz = [
         q:'Who were the 3 founders of Apple? Steve Jobs, Steve Wozniak, and ________.?',
         options: ['Tim Cook','Ronald Wayne', 'Sundar Pichai', 'Linus Torvalds'],
         answer: 1,
-        topic: computer
+        topic: 'computer'
     },
     {
         q:'What country is home to the tallest mountain in the world, Mount Everest?',
         options: ['India','China', 'Nepal', 'Japan'],
         answer: 2,
-        topic: geography
+        topic: 'geography'
     },
     {
         q:'What is the name of the highest uninterrupted waterfall in the world?',
         options: ['Niagara Falls','Vicoria Falls', 'Yosemite Falls','Angel Falls'],
         answer: 3,
-        topic: geography
+        topic: 'geography'
     },
     {
         q:'What star sign would someone born on August 24th be?',
         options: ['Leo','Cancer', 'Virgo', 'Gemini'],
         answer: 2,
-        topic: general_knowledge
+        topic: 'general_knowledge'
     },
     v
     {
         q:'What geometric shape is generally used for stop signs?',
         options: ['Circle','Square','Hexagon','Octagon'],
         answer: 3,
-        topic: general_knowledge
+        topic: 'general_knowledge'
     },
     {
         q:'What is the name of the largest ocean on earth?',
         options: ['Pacific Ocean','Indian Ocean', 'Atlantic Ocean', 'Arctic Ocean'],
         answer: 0,
-        topic: geography
+        topic: 'geography'
     },
     {
         q:'Which is the only edible food that never goes bad?',
         options: ['Cheese','Honey', 'Sausage', 'Milk'],
         answer: 1,
-        topic: general_knowledge
+        topic: 'general_knowledge'
     },
     {
         q:'Which country won the first-ever soccer World Cup in 1930?',
         options: ['Uruguay','Argentina', 'France', 'Brazil'],
         answer: 0,
-        topic: sports
+        topic: 'sports'
     },
     {
         q:'Dump, floater, and wipe are terms used in which team sport?',
         options: ['Hockey','Cricket', 'Volleyball', 'Basketball'],
         answer: 2,
-        topic: sports
+        topic: 'sports'
     },
     {
         q:'What is the hottest planet in the solar system??',
         options: ['Mercury','Mars', 'Jupiter', 'Venus'],
         answer: 4,
-        topic: science
+        topic: 'science'
     },
     {
         q:'Which former Doctor Who actress played the part of Nebula in ‘Avengers:Infinity War’?',
         options: ['Zoe Saldana','Karen Gillan', 'Emma Stone', 'Elizabeth Olsen'],
         answer: 1,
-        topic: pop_culture
+        topic: 'pop_culture'
     },
 ]
