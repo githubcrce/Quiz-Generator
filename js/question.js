@@ -84,7 +84,6 @@ const quiz = [
         answer: 2,
         topic: 'general_knowledge'
     },
-    v
     {
         q:'What geometric shape is generally used for stop signs?',
         options: ['Circle','Square','Hexagon','Octagon'],
