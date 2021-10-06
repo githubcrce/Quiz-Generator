@@ -47,8 +47,28 @@ const quiz = [
         answer: 1,
     },
     {
-        q:'Mark Zuckerberg is the owner of  ?',
-        options: ['Facebook','Twitter', 'LinkedIn', 'Github'],
+        q:'Which among the following states is largest producer of Coffee in India?',
+        options: ['Tamilnadu','Andhra Pradesh', 'Karnataka', 'Kerala'],
+        answer: 2,
+        topic:'geography',
+    },
+    {
+        q:'Which among the following is India’s first Expressway?',
+        options: ['Mumbai-Pune Expressway','Ahmedabad-Vadodara Expressway', 'Delhi-Gurgaon Expressway', 'Jaipur-Kishangarh Expressway'],
         answer: 0,
-    }
+        topic:'geography',
+    },
+    {
+        q:'Which among the following Union Territory of India has largest Area?',
+        options: ['Delhi','Andaman & Nicobar Islands', 'Dadra & Nagar Haveli', 'Chandigarh'],
+        answer: 0,
+        topic:'geography',
+    },
+    {
+        q:'Which countrys flag is this?',
+        options: ['Greece','Cyprus', 'Italy'],
+        answer: 1,
+        img: 'img/cyprus.png',
+        topic:'geography',
+    },
 ]

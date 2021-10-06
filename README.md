@@ -51,11 +51,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Screen Shot][product-screenshot]](https://github.com/githubcrce/Quiz-Generator/blob/main/screens/home-screen.jpg)
+
+[![Screen Shot][product-screenshot-1]](https://github.com/githubcrce/Quiz-Generator)
 
 Coding your own JavaScript Quiz Generator is also a fantastic learning exercise. It teaches you how to deal with events, manipulate the DOM, handle user input, give feedback to the user. This one is better because it's friendly. Try now.
 
-[![Screen Shot][product-screenshot]](https://github.com/githubcrce/Quiz-Generator/blob/main/screens/quiz-screen.jpg)
+[![Screen Shot][product-screenshot-2]](https://github.com/githubcrce/Quiz-Generator)
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
@@ -135,3 +136,5 @@ Project Link: [Click](https://githubcrce.github.io/Quiz-Generator/)
 * [Slick Carousel](https://kenwheeler.github.io/slick)
 * [Font Awesome](https://fontawesome.com)
 
+[product-screenshot-1]: screens/home-screen.jpg
+[product-screenshot-2]: screens/quiz-screen.jpg
