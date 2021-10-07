@@ -51,6 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+
 [![Screen Shot][product-screenshot-1]](https://github.com/githubcrce/Quiz-Generator)
 
 Coding your own JavaScript Quiz Generator is also a fantastic learning exercise. It teaches you how to deal with events, manipulate the DOM, handle user input, give feedback to the user. This one is better because it's friendly. Try now.
