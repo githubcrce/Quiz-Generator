@@ -2,22 +2,29 @@
 <html lang="en">
 
 <head>
-    <title>Quizziee</title>
-    <link rel="icon" href="img/logo.png" type="image/x-icon">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="css/style.css">
+	<title>Quizziee</title>
+	<link rel="icon" href="img/logo.png" type="image/x-icon">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
+	<div class="home-box custom-box">
+		<h3>Instructions</h3>
+		<p>Total number of questions: <span class="total-question"></span></p>
+		<p>You can attempt the quiz multiple times</p>
+		<p>Each question carries one point. No negative marking for wrong answers</p>
+		<p>Questions are of Multiple Choice</p>
+		<button type="button" class="btn" onclick="startQuiz()">Start Quiz</button>
+		<label for="topic">Choose Topic:</label>
 
-    <div class="home-box custom-box">
-        <h3>Instructions</h3>
-        <p>Total number of questions: <span class="total-question"></span></p>
-        <p>You can attempt the quiz multiple times</p>
-        <p>Each question carries one point. No negative marking for wrong answers</p>
-        <p>Questions are of Multiple Choice</p>
-        <button type="button" class="btn start-quiz-btn" onclick="startQuiz()">Start Quiz</button>
-        <label for="topic">Choose Topic:</label>
+		<select name="cars" id="cars">
+			<option value="sports">Sports</option>
+			<option value="logic">Logic</option>
+			<option value="gk">GK</option>
+			<option value="computer">Computer</option>
+		</select>
+	</div>
 
         <select name="cars" id="cars">
 			<option value="sports">Sports</option>
@@ -80,5 +87,4 @@
     <script src="js/question.js"></script>
     <script src="js/app.js"></script>
 </body>
-
 </html>

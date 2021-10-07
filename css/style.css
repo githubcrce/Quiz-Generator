@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
 body {
     margin: 0;
     font-size: 16px;
@@ -8,6 +9,7 @@ body {
 }
 
 * {
+
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -60,6 +62,7 @@ body {
     margin-bottom: 10px;
     line-height: 22px;
 }
+
 
 .home-box p span {
     font-weight: 500;
@@ -120,6 +123,7 @@ body {
     margin: 0;
 }
 
+
 .quiz-box .question-text img {
     max-width: 100%;
     display: block;
@@ -174,6 +178,7 @@ body {
     z-index: -1;
     animation: slideInLeft .5s ease forwards;
 }
+
 
 @keyframes slideInLeft {
     0% {
