@@ -88,6 +88,14 @@ body {
     display: inline-block;
 }
 
+.exit-btn {
+ background-color: red;
+ float: right;
+}
+.exit-btn:hover {
+    box-shadow: 0 0 0 1.5px rgb(0 0 0 / 40%);
+    transform: box-shadow 200ms ease-out;
+}
 .next-btn:hover,
 .go-home-btn:hover,
 .try-again-btn:hover,
